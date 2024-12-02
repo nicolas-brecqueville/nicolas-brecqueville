@@ -11,7 +11,7 @@ Développeur en formation, passionné par l'Intelligence Artificielle, avec des 
   - Technologies : HTML, CSS, JavaScript.
 
 ## 📎 Liens utiles
-- [LinkedIn]([https://linkedin.com/in/username](https://www.linkedin.com/feed/))
+- [https://linkedin.com/in/username](https://www.linkedin.com/feed/)
 - [Portfolio](https://username.github.io/)
 
 ## 🎯 Objectifs actuels
