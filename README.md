@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Nicolas Brecqueville](https://github.com/user-attachments/assets/e60d7e0f-54cd-48e4-811e-ad218a1a4324)
+![Uploading Applis en développement-2.png…]()
+
 
 <!--
 **nicolas-brecqueville/nicolas-brecqueville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
