@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://export-download.canva.com/tslRY/DAGYIntslRY/17/0/0001-8476223253122586588.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20241202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241202T003750Z&X-Amz-Expires=45860&X-Amz-Signature=f4891dcf201713bb2c45944162f45bc6743ab82038d8085b37a2184343e947fe&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Nicolas%2520Brecqueville.png&response-expires=Mon%2C%2002%20Dec%202024%2013%3A22%3A10%20GMT
+![Nicolas Brecqueville](https://github.com/user-attachments/assets/e60d7e0f-54cd-48e4-811e-ad218a1a4324)
+
 <!--
 **nicolas-brecqueville/nicolas-brecqueville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
